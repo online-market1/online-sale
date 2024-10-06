@@ -41,7 +41,7 @@ const Navbar = () => {
             <div className={`${isOpen ? 'block' : 'hidden'} md:hidde bg-gray-200`}>
                 <div className=" px-4 py-2 ">
                 <div className='main'>
-<div className="text-lg font-bold ml-7 mt-8 mb-4">Categories</div>
+<div className="text-lg font-bold ml-7 mt-8 mb-4">Cates</div>
 
 
 <button className='bg-white p-2 mt-6 rounded-md w-60 text-left -ml-5 shadow-lg border-stone-950 font-semibold flex items-center' >
